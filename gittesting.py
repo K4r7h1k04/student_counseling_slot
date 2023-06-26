@@ -1,4 +1,4 @@
-print("checking git ")
+print("checking git push and pull ")
 """git clone <url>      =========taking clone of the file into repos
 code .                  =========opening vs code 
 git add .\<file name>   =========adding new file or modified file to tracking
