@@ -5,7 +5,7 @@ def findCounselling(no_of_slots, no_of_students, slots, students, date):
     # Initialize a dictionary to store the allocated slots
     allocated_slots = {}
 
-    # Iterate over the slots and allocate seats to the students
+    # Iiterate over the slots and allocate seats to the students
     for slot in slots:
         slot_date = slot[0]
         slot_id = slot[1]
